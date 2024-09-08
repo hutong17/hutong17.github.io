@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
                 </div>
                 <div class="self-content">
                     <div class="info-container">
-                        This is a simple homepage theme by 徐静雯.
+                        This is a simple homepage theme by XuJingwen.
                     </div>
 
                 </div>
