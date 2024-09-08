@@ -1,8 +1,8 @@
 # hutong17.github.io
 - 👋 Hi, I’m 徐静雯.I come from school of Computer Science and Technology.
-- 👀 I’m interested in listening music and leaning new things to improve myself,although my technology is poor right now.
+- 👀 I’m interested in listening music and leaning new things ,although my technology is  rather poor right now.
 - 🌱 I’m currently learning how to make my own blog and i will always try to do better.
-- 👀 HOPE YOU COULD GIVE ME A OPPORTUNITY!
+- 👀 I really hope to join this club.Hope you could give me a chance to learn more!
 
 <!---
 hutong17/hutong17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
                 </div>
                 <div class="self-content">
                     <div class="info-container">
-                        This is a simple homepage theme by XuHutong.
+                        This is a simple homepage theme by 徐静雯.
                     </div>
 
                 </div>
