@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
                 </div>
                 <div class="self-content">
                     <div class="info-container">
-                        This is a simple homepage theme by Zapic.
+                        This is a simple homepage theme by XuHutong.
                     </div>
 
                 </div>
@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
             </div>
         </div>
     </div>
-    <div class="footer-container text-center">© 2020 By <a href="#">Present</a></div>
+    <div class="footer-container text-center">© 2024 By <a href="#">Present</a></div>
 </body>
 
 <link rel="stylesheet" href="static/css/main.css">
